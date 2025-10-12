@@ -4,6 +4,6 @@ This repository provides the source code of my implementation for assignments fr
 
 ## License
 
-Copyright &copy; [Xi Xu](https://xi-xu.me). All rights reserved.
+Copyright &copy; [Xi Xu](https://xi-xu.me)
 
 Licensed under the [GPL-3.0](LICENSE) license.
